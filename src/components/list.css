@@ -1,0 +1,27 @@
+.list-style{
+    color: #2f2f2f;
+    width: 39vw;
+    /* background-color: #c8f1a4;
+    background-color: #6edf28; */
+    /* background-color: #ABABAB; */
+    background-color: #2f2f2f; 
+
+    margin-left: 26.5vw;
+    height: 5vw;
+    border-radius: 1vw;
+    
+}
+.list-style p{
+    text-align: start;
+    padding: 1vw;
+    letter-spacing: 0.2vw;
+    color: white;
+    font-size: 1.5vw;
+}
+.line{
+    height: .3vw;
+    width: 12vw;
+    margin: 0 auto;
+    background-color: #ABABAB;
+    margin-top: 25vw;
+  }

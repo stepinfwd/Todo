@@ -1,0 +1,48 @@
+.home{
+    width: 100vw;
+    height: 50vw;
+    margin: 3vw auto;
+    border-radius: 1vw;
+      background-color: rgb(255, 255, 255);
+
+}
+.todo input{
+    width: 40vw;
+    border-radius: 1vw;
+    margin-top: 2vw;
+    height: 4vw;
+    margin-left: -3vw;
+    font-size: 1.5vw;
+
+}
+.todo input:focus,.todo button:focus{
+outline: none;
+}
+span{
+    padding-left: 1.2vw;
+}
+.styling{
+    color: #5C5C5C;
+    font-size: 1.8vw;
+    font-weight: bolder;
+    margin-top: 2vw;
+    
+}
+.align{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.todo button{
+    width:3.5vw;
+    height: 3.5vw;
+    margin-left: 2vw;
+    font-weight: bolder;
+    border: .4vw solid #b1e981;
+    color: #464646;
+    border-radius: 1vw;
+    margin-top: 2vw;
+    font-size: 2vw;
+    
+}
